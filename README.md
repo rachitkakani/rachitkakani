@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rachit Kakani</h1>
 <h3 align="center">A passionate Mobile App developer from India.</h3>
 
-- 🔭 I’m currently working on **Mobile app development with Flutter.**
+- 🔭 I’m currently working on **A Realtime mobile Chatting App using Flutter and Dart.**
 
 - 🌱 I’m currently learning **advanced Flutter development, state management techniques, and DSA.**
 
